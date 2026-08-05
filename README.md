@@ -1,7 +1,6 @@
 EX NO: Cloud-account-set-up-and-services
-Name :M.PAVITHRA
-
-Reg no: 212222100032
+Name : RIHAB ZAKKAIR HUSSIAN
+Reg no: 212225230226
 Aim:
 To create an cloud account in AWS and to explore all of its services.
 
@@ -72,9 +71,8 @@ Services Overview:
 • Explore all the available services in AWS platform.
 
 Output:
-image
 
-image
+
 
 Result:
 Thus an account was created in AWS platform and all the services were explored.

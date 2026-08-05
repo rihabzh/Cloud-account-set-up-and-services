@@ -73,7 +73,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 # Output:
 
-
+![alt text](<Screenshot 2026-08-05 105855.png>)
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
